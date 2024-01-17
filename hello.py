@@ -1,3 +1,4 @@
+#hello!!
 new_var=input("something you want : ")
 
 if(new_var=="samosa"):
